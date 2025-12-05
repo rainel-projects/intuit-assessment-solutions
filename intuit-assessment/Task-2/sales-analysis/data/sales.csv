@@ -1,0 +1,6 @@
+order_id,region,sales,category
+1001,North,1200,Electronics
+1002,South,800,Clothing
+1003,North,600,Electronics
+1004,West,400,Furniture
+1005,South,1500,Electronics
